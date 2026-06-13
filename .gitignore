@@ -1,0 +1,37 @@
+# ---- Unity generated folders (пересоздаются движком, в репозиторий не нужны) ----
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# ---- IDE ----
+.vs/
+.idea/
+.vsconfig
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ---- Сборки и крупные артефакты ----
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- Crash / build reports ----
+sysinfo.txt
+*.stackdump
+crashlytics-build.properties
